@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PredictiveCards">
+        <attr name="predictiveCardBackground" format="color|reference" />
+        <attr name="predictiveCardTextColorPrimary" format="color|reference" />
+        <attr name="predictiveCardTextColorSecondary" format="color|reference" />
+    </declare-styleable>
+
+</resources>

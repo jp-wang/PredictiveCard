@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="predictiveCardHeight">102dp</dimen>
+    <dimen name="predictiveCardWidth">266dp</dimen>
+    <dimen name="predictiveCardMargin">13dp</dimen>
+
+    <color name="predictiveCardLightTrafficColor">#33CC33</color>
+    <color name="predictiveCardMediumTrafficColor">#FF6600</color>
+    <color name="predictiveCardHeavyTrafficColor">#ffe80026</color>
+    <color name="predictiveCardDefaultBackgroundColor">#CCFFFFFF</color>
+    <color name="predictiveCardDefaultPrimaryTextColor">#ff000000</color>
+    <color name="predictiveCardDefaultSecondaryTextColor">#99000000</color>
+
+</resources>
